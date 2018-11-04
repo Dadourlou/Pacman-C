@@ -18,9 +18,6 @@ Package natif utiliser:
     -pathlib
 
 Package a installer :
-    -Tkinter
-    (sudo apt-get install python3-tk)
-	
     -numpy pour la gestion de matrice
     (pip3 install numpy)
 
